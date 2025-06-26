@@ -12,5 +12,6 @@
 <img align="left" src="https://skillicons.dev/icons?i=vite,nodejs,react,mongodb,express,neovim">
 </p>
 
+![snake](https://raw.githubusercontent.com/GurmanDhami05/GurmanDhami05/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 
